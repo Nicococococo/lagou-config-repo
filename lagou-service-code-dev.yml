@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://47.98.199.254:3306/lg?useUnicode=true&characterEncoding=utf8
+    url: jdbc:mysql://47.98.199.254:3306/lg?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai&useUnicode=true
     username: root
     password: docker
 
